@@ -4,10 +4,14 @@
 
 From [Noise Displacement in TouchDesigner](https://www.simonaa.media/tutorials/noisedisplacement) by Simon Alexander-Adams
 
-<img src="images/LavaLamp.png" width="512px">lava lamp render</img>
+<p align="center">
+	<img src="images/LavaLamp.png" width="512px">
+</p>
 
 ## Finger Waves
 
 From [Instancing Geometry in TouchDesigner](https://www.simonaa.media/tutorials/instancing) by Simon Alexander-Adams
 
-![finger waves render](images/FingerWaves.png)
+<p align="center">
+	<img src="images/FingerWaves.png" width="512px">
+</p>
