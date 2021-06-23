@@ -4,7 +4,7 @@
 
 From [Noise Displacement in TouchDesigner](https://www.simonaa.media/tutorials/noisedisplacement) by Simon Alexander-Adams
 
-![lava lamp render](images/LavaLamp.png){:width="512px"}
+<img src="images/LavaLamp.png" width="512px">lava lamp render</img>
 
 ## Finger Waves
 
